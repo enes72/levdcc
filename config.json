@@ -1,0 +1,102 @@
+﻿{ 
+    "GuildID": "",
+    "GuildName": "Public V14",
+    "owners": ["683514766114947134"],
+    "BotDurum": ["lev1453"], 
+    "BotSesKanal": "1366651799674687638",
+    "AltBaşlık": "lev1453",
+
+    "mongoUrl": "mongodb+srv://levdcbot:levdc72@cluster0.6drrdrf.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+
+    "Welcome": {
+        "Active": true,
+        "Tokens": [
+        ""
+      
+
+
+        ],
+        "Channels": [
+            ""
+        
+          
+           
+           
+
+            ]
+    
+        },
+
+    
+
+    "Main": {
+        "ModerationToken": "",
+        "RegisterToken": "",
+        "StatsToken": "",
+
+        "LevelSystem": true,
+
+        "prefix": [
+            ".",
+            "+",
+            "!",
+            "/",
+            "-",
+            "?",
+            "="
+        ],
+
+        "BotClientID": "",
+        
+  
+        "banlimit": 3,
+        "jaillimit": 3,
+        "warnlimit": 3,
+        "chatmutelimit": 3,
+        "voicemutelimit": 3,
+        "yetkiCoin": 10
+    },
+    "Guard": {
+        "Token": {
+            "Guard_I": "",
+            "Guard_II": "",
+            "Guard_III": "",
+
+            "TaçHesapToken": "",
+            "UrlGuardToken": "",
+
+            "Dağıtıcı": [
+                ""
+            ]
+        },
+        "Limit": {
+            "Ban": 3,
+            "Kick": 3,
+            "RoleCreate": 2,
+            "ChannelCreate": 2,
+
+            "Reklam": 8,
+            "Etiket": 8,
+            "Satır": 8,
+            "Ekler": 8
+        },
+        "kayıt": {
+            "yasKilit": true,
+            "minYas": 16
+        },
+    
+        "Guard": {
+            "TaskDelay": 250,
+            "GiveRoleDelay": 500
+        },
+
+        "kufurEngel": true,
+        "spamEngel": true,
+        "capsEngel": true,
+        "reklamEngel": true
+
+    }
+    
+    
+    
+}
